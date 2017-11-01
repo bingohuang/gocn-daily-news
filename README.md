@@ -13,6 +13,21 @@
 # 2017
 ## 2017-11 [顶部](#gocn-每日新闻汇总)
 
+[GoCN每日新闻(2017-11-01)](https://gocn.io/question/1263)
+
+* Profiling Go http://www.integralist.co.uk/posts/profiling-go/
+
+* Go 设计模式 https://github.com/tmrts/go-patterns
+
+* gRPC服务最佳实践by coreOS https://golangnews.com/stories/2863
+
+* Go 正则设计背后的优雅 https://docs.google.com/presentation/d/1CwgyzSoz5lVFrgTWb67_ar5kkidW2crOItBOnxRH9uI/mobilepresent?slide=id.gcb9a0b074_1_0
+
+* 机器学习算法：那个才适合你的问题 https://dzone.com/articles/machine-learning-algorithms-which-one-to-choose-fo
+
+> 每月一书：
+> 《时间管理》作者从大量关于时间管理的书籍和文章中归纳出约50条原则.并在书中一一展示。以故事的形式来介绍时间管理.行文生动活泼.配有精美描图。适合对时间管理感兴趣的读者休闲阅读。
+
 ## 2017-10 [顶部](#gocn-每日新闻汇总)
 
 [GOCN每日新闻(2017-10-12)](https://gocn.io/question/1213)
