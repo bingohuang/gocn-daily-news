@@ -15,6 +15,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GoCN每日新闻(2017-11-02)](https://gocn.io/question/1266)
+
+* Go 代码评估工具 https://goreportcard.com/
+
+* net包使用注意点 https://qzwlecr.github.io/2017/10/31/Go%E8%AF%AD%E8%A8%80net%E5%8C%85%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E8%8B%A5%E5%B9%B2%E9%97%AE%E9%A2%98/
+
+* 用Go语言编写一门工具的终极指南 https://yq.aliyun.com/articles/229201
+
+* “爸爸，什么是机器学习呀？” https://mp.weixin.qq.com/s/5XcXnNFZ60hJPD7rvnPJgQ
+
+* macOS 上都有哪些既免费、又实用的工具 https://sspai.com/post/41477
+
+---
+
 [GoCN每日新闻(2017-11-01)](https://gocn.io/question/1263)
 
 * Profiling Go http://www.integralist.co.uk/posts/profiling-go/
