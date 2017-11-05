@@ -15,6 +15,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GoCN每日新闻(2017-11-05)](https://gocn.io/question/1275)
+
+* vim-go的过去与未来 https://speakerdeck.com/farslan/the-past-and-future-of-vim-go
+
+* 一个命令迁移MySQL数据到postgres http://pgloader.io/
+
+* gops - Go语言程序查看和诊断工具 http://www.cnblogs.com/snowInPluto/p/7785651.html
+
+* cmd/go 的编译、测试等加速改进 https://groups.google.com/forum/#!msg/golang-dev/qfa3mHN4ZPA/X2UzjNV1BAAJ
+
+* Go在digitalocean的应用 https://speakerdeck.com/farslan/go-at-digitalocean
+
+---
+
 [GoCN每日新闻(2017-11-04)](https://gocn.io/question/1274)
 
 * go语言作用域踩坑 http://michaelyou.github.io/2017/11/03/go-scope/
