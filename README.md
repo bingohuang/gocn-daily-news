@@ -15,6 +15,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GoCN每日新闻(2017-11-03)](https://gocn.io/question/1273)
+
+* 编写终端的UI库 https://github.com/marcusolsson/tui-go
+
+* liteide X33发布 https://gocn.io/article/480
+
+* PingCAP CTO 黄东旭：开源与基础软件创业在中国 https://mp.weixin.qq.com/s/4yTqyvIUC2z3DaDxkpgopg
+
+* Go 数据科学 https://blog.chewxy.com/2017/11/02/go-for-data-science/
+
+* 类似gofmt的go 模板格式化工具 https://github.com/gotpl/gtfmt
+
+---
+
 [GoCN每日新闻(2017-11-02)](https://gocn.io/question/1266)
 
 * Go 代码评估工具 https://goreportcard.com/
