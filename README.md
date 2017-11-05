@@ -15,6 +15,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GoCN每日新闻(2017-11-04)](https://gocn.io/question/1274)
+
+* go语言作用域踩坑 http://michaelyou.github.io/2017/11/03/go-scope/
+
+* 结合 Go 读 APUE－基本文件I/O http://www.jianshu.com/p/5e6be808d550
+
+* 谈谈golang的rpc https://yuerblog.cc/2017/11/03/golang-rpc/
+
+* Goglang eap18发布 https://blog.jetbrains.com/go/2017/11/02/announcing-goland-former-gogland-eap-18-final-product-name-templates-support-and-more/
+
+* 浅谈人工智能：现状、任务、构架与统一 | 正本清源 https://mp.weixin.qq.com/s/-wSYLu-XvOrsST8_KEUa-Q
+
+---
+
 [GoCN每日新闻(2017-11-03)](https://gocn.io/question/1273)
 
 * 编写终端的UI库 https://github.com/marcusolsson/tui-go
