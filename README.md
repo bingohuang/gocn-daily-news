@@ -15,6 +15,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GoCN每日新闻(2017-11-07)](https://gocn.io/question/1285)
+
+* 深入理解net/http/pprof http://mmcloughlin.com/posts/your-pprof-is-showing
+
+* 理解golang的反射reflection http://www.lijiaocn.com/%E7%BC%96%E7%A8%8B/2017/11/06/golang-reflection.html
+
+* 用dep代替 go get 来获取私有库 http://blog.csdn.net/jq0123/article/details/78457210
+
+* 浅谈大规模分布式系统中那些技术点 http://www.linkedkeeper.com/detail/blog.action?bid=1016
+
+* 调试利器-SSH隧道 https://github.com/gwuhaolin/blog/issues/11
+
+---
+
 [GoCN每日新闻(2017-11-06)](https://gocn.io/question/1279)
 
 * 你所下过的那些笨功夫，才是你的核心竞争力 http://www.jianshu.com/p/0199fdcf73b5
