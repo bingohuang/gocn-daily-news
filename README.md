@@ -15,6 +15,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GoCN每日新闻(2017-11-06)](https://gocn.io/question/1279)
+
+* 你所下过的那些笨功夫，才是你的核心竞争力 http://www.jianshu.com/p/0199fdcf73b5
+
+* Go静态分析和review工具reviewdog https://docs.google.com/presentation/d/1_BWQXamZvIhL3l9ziL9zb25yP9RjpgXoxkWX-48ECss/edit#slide=id.p
+
+* Go+Microservices at Mercari https://talks.godoc.org/github.com/tcnksm/talks/2017/11/gocon2017/gocon2017.slide
+
+* 基于 event-loop 的网络库 https://github.com/tidwall/evio
+
+* Go压力测试UI https://github.com/divan/gobenchui
+
+---
+
 [GoCN每日新闻(2017-11-05)](https://gocn.io/question/1275)
 
 * vim-go的过去与未来 https://speakerdeck.com/farslan/the-past-and-future-of-vim-go
