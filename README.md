@@ -15,6 +15,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GoCN每日新闻(2017-11-12)](https://gocn.io/question/1298)
+
+* 理解Docker的多阶段镜像构建 http://tonybai.com/2017/11/11/multi-stage-image-build-in-docker/
+
+* Go项目的Makefile https://ops.tips/blog/minimal-golang-makefile/
+
+* Go在线练习网站，非常酷 https://gophercises.com/
+
+* 高并发和高可用的一点思考 http://kriszhang.com/high_performance/
+
+* Golang的HTTP操作大全 https://i6448038.github.io/2017/11/11/httpAndGolang/
+
+---
+
 [GoCN每日新闻(2017-11-11)](https://gocn.io/question/1296)
 
 * Golang源码探索(二) 协程的实现原理 http://www.cnblogs.com/zkweb/p/7815600.html
