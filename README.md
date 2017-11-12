@@ -15,6 +15,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GoCN每日新闻(2017-11-10)](https://gocn.io/question/1292)
+
+* 压缩各种静态文件的工具 https://github.com/tdewolff/minify
+
+* Go的使用体验 http://lucapette.me/my-experience-with-go
+
+* Linux 工具参考篇 http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/index.html
+
+* Go 语言实现的轻量级 TCP 异步框架 https://github.com/leesper/tao
+
+* 深度解析Go bufio scanner https://medium.com/golangspec/in-depth-introduction-to-bufio-scanner-in-golang-55483bb689b4
+
+---
+
 [GoCN每日新闻(2017-11-09)](https://gocn.io/question/1291)
 
 * 深入理解GO语言之并发机制 https://juejin.im/post/59fff862f265da430f317c1f
