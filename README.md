@@ -15,6 +15,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GoCN每日新闻(2017-11-11)](https://gocn.io/question/1296)
+
+* Golang源码探索(二) 协程的实现原理 http://www.cnblogs.com/zkweb/p/7815600.html
+
+* Go 8岁了 https://blog.golang.org/8years
+
+* 理解Go panic输出 https://joeshaw.org/understanding-go-panic-output/
+
+* Go for pythonistas https://cds.cern.ch/record/2292441
+
+* Go 写Web app视频教程 https://www.youtube.com/playlist?list=PLmxT2pVYo5LDMV0epL4z4CUbxvIw6umg_
+
+---
+
 [GoCN每日新闻(2017-11-10)](https://gocn.io/question/1292)
 
 * 压缩各种静态文件的工具 https://github.com/tdewolff/minify
