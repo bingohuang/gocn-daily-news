@@ -15,6 +15,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GOCN每日新闻(2017-11-14)](https://gocn.io/question/1308)
+
+* Go 调整 GC 参数 https://blog.cloudflare.com/go-dont-collect-my-garbage/
+
+* 理解 SOLID 接口隔离原则 https://codeburst.io/understanding-solid-principles-interface-segregation-principle-b2d57026cf6c
+
+* Go 的包设计哲学 https://www.goinggo.net/2017/02/design-philosophy-on-packaging.html
+
+* Go 语言中错误处理 https://scene-si.org/2017/11/13/error-handling-in-go/
+
+* Go 语言的零值序列化 https://daenney.github.io/2017/08/27/go-zero-values-serialising-deserialising.html
+
+---
+
 [GoCN每日新闻(2017-11-13)](https://gocn.io/question/1301)
 
 * pprof新的UI https://rakyll.org/pprof-ui/
