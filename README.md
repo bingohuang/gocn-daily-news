@@ -15,6 +15,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GOCN每日新闻(2017-11-15)](https://gocn.io/question/1313)
+
+* 非常实用的HTTP请求库 https://github.com/imroc/req
+
+* 究竟啥才是互联网架构“高并发” http://url.cn/5OBO2ha
+
+* 为Go应用定制dockerfile https://ops.tips/blog/dockerfile-golang/
+
+* 高效的多维空间点索引算法 http://www.jianshu.com/p/7332dcb978b2
+
+* Golang 标准包布局[译] http://www.jianshu.com/p/022ba2dd9239
+
+---
+
 [GOCN每日新闻(2017-11-14)](https://gocn.io/question/1308)
 
 * Go 调整 GC 参数 https://blog.cloudflare.com/go-dont-collect-my-garbage/
