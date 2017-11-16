@@ -15,6 +15,24 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GOCN每日新闻(2017-11-16)](https://gocn.io/question/1321)
+
+* 谷歌发布移动端深度学习框架TensorFlow Lite https://www.leiphone.com/news/201711/suQv6jGR9zzFHXve.html
+
+* 编写高性能Go应用程序
+http://talks.godoc.org/github.com/davecheney/qconsf-2017/high-performance-go.slide
+
+* 从源代码构建Caddy服务器
+https://www.calhoun.io/building-caddy-server-from-source/
+
+* TensorFlow 做文本情感分析
+https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow
+
+* Golang 机器学习库
+https://github.com/KeKe-Li/golearn/blob/master/doc/zh_CN/Home.md
+
+---
+
 [GOCN每日新闻(2017-11-15)](https://gocn.io/question/1313)
 
 * 非常实用的HTTP请求库 https://github.com/imroc/req
