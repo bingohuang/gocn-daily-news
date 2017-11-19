@@ -15,6 +15,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GoCN每日新闻(2017-11-18)](https://gocn.io/question/1329)
+
+* Golang 如何优雅关闭 channel https://blog.tanteng.me/2017/11/golang-close-channel/
+
+* GoLang EAP19 发布 https://blog.jetbrains.com/go/2017/11/16/goland-eap-19-docs-in-param-info-coverage-for-multiple-packages-build-tags-and-more/
+
+* Google出品的解析不可信文件格式 https://github.com/google/puffs
+
+* istio如何管理微服务 https://developer.ibm.com/dwblog/2017/how-istio-manages-microservice-applications/
+
+* Go生产PDF库 https://github.com/jung-kurt/gofpdf
+
+---
+
 [GoCN每日新闻(2017-11-17)](https://gocn.io/question/1327)
 
 
