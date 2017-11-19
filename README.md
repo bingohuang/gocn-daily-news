@@ -15,6 +15,24 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GoCN每日新闻(2017-11-19)](https://gocn.io/question/1332)
+
+* 用Go进行可扩展的操作系统分析 https://blog.kolide.com/using-go-for-scalable-operating-system-analytics-cb170d85b1c5
+
+
+* Golang使用redis protocol实现pubsub通信 https://goo.gl/vCuyHH
+
+
+* Go的建议清单 https://github.com/cristaloleg/go-advices
+
+
+* 为什么我选择Go来构建区块链 https://medium.com/karachain/why-i-am-building-a-blockchain-in-go-6395a60b24dd
+
+
+* Go HTTP Client 持久连接 https://serholiu.com/go-http-client-keepalive
+
+---
+
 [GoCN每日新闻(2017-11-18)](https://gocn.io/question/1329)
 
 * Golang 如何优雅关闭 channel https://blog.tanteng.me/2017/11/golang-close-channel/
