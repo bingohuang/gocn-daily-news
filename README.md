@@ -15,6 +15,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GoCN每日新闻(2017-11-21)](https://gocn.io/question/1335)
+
+* 用Go实现你自己的2048游戏 https://github.com/xwjdsh/2048-ai
+
+* 不适用微服务的场景 http://blog.christianposta.com/microservices/when-not-to-do-microservices/
+
+* 从PHP到Go https://www.sitepoint.com/moving-php-go/
+
+* Go开发指南：框架，IDE和工具 https://medium.com/@quintinglvr/golang-guide-a-list-of-top-golang-frameworks-ides-tools-e7c7866e96c9
+
+* Go单元测试编写的五个建议 https://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742
+
+---
+
 [GoCN每日新闻(2017-11-20)](https://gocn.io/question/1333)
 
 * Go 中任务队列的简单实现 https://www.opsdash.com/blog/job-queues-in-go.html
