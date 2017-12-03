@@ -1,6 +1,7 @@
 # GoCN 每日新闻汇总
 <!-- BEGIN MUNGE: GENERATED_TOC -->
 - [2017](#2017)
+  - [2017-12](#2017-12)
   - [2017-11](#2017-11)
   - [2017-10](#2017-10)
   - [2017-09](#2017-09)
@@ -13,6 +14,24 @@
 # 2017
 
 ### [回到顶部](#gocn-每日新闻汇总)
+## 2017-12
+
+[GoCN每日新闻(2017-12-1)](https://gocn.io/question/1366)
+
+* Context包并非为cancel而生 https://dave.cheney.net/2017/08/20/context-isnt-for-cancellation
+
+* PromptUI:Go交互式控制台设计工具 https://github.com/manifoldco/promptui
+
+* Go语言中实现基于 event-loop 网络处理 http://colobu.com/2017/11/29/event-loop-networking-in-Go/
+
+* 使用Go与redis构建有趣的应用 https://mp.weixin.qq.com/s/tIHEq8wxK_av6ezo3JECWA
+
+* GoLand 2017.3正式发布 https://blog.jetbrains.com/go/2017/11/30/the-way-to-go-jetbrains-goland-ide-hits-the-market/
+
+> 每月一书：《别让猴子跳回背上》
+
+> 本书借用猴子譬喻生动形象地讲述了企业组织一旦受困于任务逆转，猴子就会跳回管理者的背上，而不是理应完成任务执行的下属身上。本书是《哈佛商业评论》被要求重新刊载次数最多的文章。
+
 ## 2017-11
 
 [GoCN每日新闻(2017-11-23)](https://gocn.io/question/1342)
