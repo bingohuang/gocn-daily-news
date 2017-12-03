@@ -15,6 +15,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-11
 
+[GoCN每日新闻(2017-11-23)](https://gocn.io/question/1342)
+
+* 键入安全绑定与Chrome远程接口进行交互 https://github.com/SKatiyar/cri
+
+* 用Go来操作OVS https://www.youtube.com/watch?feature=youtu.be&v=45PpBbqB2Z0
+
+* 如何将golang的并发编程运用到实际开发 https://juejin.im/post/5a11a3c76fb9a04512388a50
+
+* Go 1.10 的pprof的工具将直接支持火焰图 http://colobu.com/2017/11/22/new-pprof-UI/
+
+* （译）Go 语言的工作窃取调度器 http://www.jianshu.com/p/20c49ce02175
+
+---
+
 [GoCN每日新闻(2017-11-22)](https://gocn.io/question/1338)
 
 * Slice和Map的比较 https://boltandnuts.wordpress.com/2017/11/20/go-slice-vs-maps/
