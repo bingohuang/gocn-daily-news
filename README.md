@@ -16,6 +16,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-12
 
+[GoCN每日新闻(2017-12-03)](https://gocn.io/question/1372)
+
+* Go错误和异常处理的正确姿势 http://www.jianshu.com/p/f30da01eea97
+
+* 关于一致性协议和分布式锁 http://mp.weixin.qq.com/s/XCPQGPhY3j8SaTXNS8tB0A
+
+* motan-go:高性能、易于使用的分布式远程服务调用框架 https://github.com/weibocom/motan-go/wiki/zh_overview
+
+* AWS Lambda开始支持Go https://www.reddit.com/r/golang/comments/7gogdy/aws_lambda_to_fully_support_go/
+
+* Funtainer: 容器即函数之美 http://dockone.io/article/2924
+
+---
+
 [GoCN每日新闻(2017-12-2)](https://gocn.io/question/1369)
 
 * Teleport2.0 一个Golang TCP Socket 的全新框架 https://github.com/henrylee2cn/teleport
