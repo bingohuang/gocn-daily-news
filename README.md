@@ -16,6 +16,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-12
 
+[GoCN每日新闻(2017-12-04)](https://gocn.io/question/1374)
+
+* 如何将 defer 中的错误作为函数参数返回 https://www.calhoun.io/using-named-return-variables-to-capture-panics-in-go/
+
+* 最小的完美散列函数 https://blog.gopheracademy.com/advent-2017/mphf/
+
+* GopherJS 和 gRPC-Web 结合使用教程 https://blog.gopheracademy.com/advent-2017/gopherjs-grpc-web/
+
+* 使用 Go 和 Grafana 搭建自己的 Dashboard https://appliedgo.net/diydashboard/
+
+* Go 许可证和包依赖检查器 https://github.com/ribice/glice
+
+---
+
 [GoCN每日新闻(2017-12-03)](https://gocn.io/question/1372)
 
 * Go错误和异常处理的正确姿势 http://www.jianshu.com/p/f30da01eea97
