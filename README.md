@@ -16,6 +16,8 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-12
 
+[GoCN每日新闻(2017-12-05)]()
+
 [GoCN每日新闻(2017-12-04)](https://gocn.io/question/1374)
 
 * 如何将 defer 中的错误作为函数参数返回 https://www.calhoun.io/using-named-return-variables-to-capture-panics-in-go/
