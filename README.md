@@ -16,7 +16,19 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-12
 
-[GoCN每日新闻(2017-12-05)]()
+[GoCN每日新闻(2017-12-05)](https://gocn.io/question/1376)
+
+* Go 微服务系列文章 https://medium.com/@marcus.eisele/microservices-with-mo-part-three-the-counter-microservice-5fa34af2dcdc
+
+* 为你的 Go 应用添加 GUI https://medium.com/@social_57971/how-to-add-a-gui-to-your-golang-app-in-5-easy-steps-c25c99d4d8e0
+
+* 微服务测试 https://medium.com/@nathankpeck/microservice-testing-introduction-347d2f74095e
+
+* 搭建 Go 分布式微服务系统 https://medium.com/@shijuvar/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2
+
+* Prometheus 2.0 中监控功能的提升 https://medium.com/@opcitoindia/continuous-improvement-in-monitoring-with-prometheus-2-0-71e26658eb69
+
+---
 
 [GoCN每日新闻(2017-12-04)](https://gocn.io/question/1374)
 
