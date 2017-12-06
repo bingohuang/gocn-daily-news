@@ -16,6 +16,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-12
 
+[GoCN每日新闻(2017-12-06)](https://gocn.io/question/1380)
+
+* 调试Go运行时bug https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/
+
+* 什么时候该用cgo http://relistan.com/cgo-when-and-when-not-to-use-it/
+
+* 基于Redis的序列号服务的设计 https://mp.weixin.qq.com/s/UzKmJnQupk4W_ZoCevd_OA
+
+* 数据统计需要掌握的十个方法 https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7
+
+* 两个随机的故事 https://blog.gopheracademy.com/advent-2017/a-tale-of-two-rands/
+
+---
+
 [GoCN每日新闻(2017-12-05)](https://gocn.io/question/1376)
 
 * Go 微服务系列文章 https://medium.com/@marcus.eisele/microservices-with-mo-part-three-the-counter-microservice-5fa34af2dcdc
