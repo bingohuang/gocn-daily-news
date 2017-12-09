@@ -16,7 +16,21 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-12
 
-[GoCN每日新闻(2017-12-8)](https://gocn.io/question/1388)
+[GoCN每日新闻(2017-12-09)](https://gocn.io/question/1392)
+
+* 使用Go 机器学习库来进行数据分析 http://colobu.com/2017/12/07/One-Machine-Learning-for-Go/
+
+* 用make文件来全自动开发go程序 https://blog.gopheracademy.com/advent-2017/make/
+
+* 如何提高物联网程序操作数据库大批量执行DML性能 https://www.cockroachlabs.com/blog/multi-row-dml/
+
+* defer使用的5个陷阱 https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01
+
+* upspin项目error处理库封装 https://commandcenter.blogspot.hk/2017/12/error-handling-in-upspin.html
+
+---
+
+[GoCN每日新闻(2017-12-08)](https://gocn.io/question/1388)
 
 * Go1.10 beta1 https://beta.golang.org/doc/go1.10
 
