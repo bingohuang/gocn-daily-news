@@ -16,6 +16,20 @@
 ### [回到顶部](#gocn-每日新闻汇总)
 ## 2017-12
 
+[GoCN每日新闻(2017-12-07)](https://gocn.io/question/1383)
+
+* go pprof 采样何时进行 http://michaelyou.github.io/2017/12/06/go-pprof-%E9%87%87%E6%A0%B7%E4%BD%95%E6%97%B6%E8%BF%9B%E8%A1%8C/
+
+* gkvdb v1.81 发布，Go 语言嵌入式 K/V 数据库 https://www.oschina.net/news/91250/gkvdb-1-81-released
+
+* go语言死循环分析 http://michaelyou.github.io/2017/12/05/go%e8%af%ad%e8%a8%80%e6%ad%bb%e5%be%aa%e7%8e%af%e5%88%86%e6%9e%90%2f
+
+* Golang 网络：核心 API 实现剖析（一） https://zhuanlan.zhihu.com/p/31644462
+
+* 如何在Go中构建完整测试的Web应用程序 https://blog.gopheracademy.com/advent-2017/a-tale-of-two-rands/
+
+---
+
 [GoCN每日新闻(2017-12-06)](https://gocn.io/question/1380)
 
 * 调试Go运行时bug https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/
